@@ -16,6 +16,17 @@ A secure, cross-platform password manager built with Tauri, React, and Rust. Fea
 
 ![Password Manager Interface](docs/screenshot.png)
 
+## Quick Start (Windows Users)
+
+🚀 **Want to try it immediately?** 
+
+1. **Download this repository** (green "Code" button → "Download ZIP")
+2. **Extract the ZIP file**
+3. **Double-click `password_app.exe`** 
+4. **That's it!** No installation needed.
+
+The app will start immediately and you can begin using your secure password manager right away.
+
 ## Prerequisites
 
 ### General Requirements
@@ -51,13 +62,19 @@ sudo apt install -y libwebkit2gtk-4.0-dev build-essential curl wget libssl-dev l
 
 ## Installation
 
-### Option 1: Download Pre-built Binaries
+### Option 1: Ready-to-Run (Windows)
+**🎯 Fastest way to get started:**
+- Download `password_app.exe` from this repository
+- Double-click to run - no installation required!
+- Works on Windows 10/11 out of the box
+
+### Option 2: Download Pre-built Binaries
 Download the latest release from the [Releases](https://github.com/CloudTigerx/password-manager/releases) page:
 - **Linux**: `.deb` or `.rpm` package
 - **Windows**: `.msi` installer
 - **macOS**: `.dmg` file
 
-### Option 2: Build from Source
+### Option 3: Build from Source
 
 1. **Clone the repository:**
    ```bash
