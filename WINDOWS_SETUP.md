@@ -21,7 +21,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/CloudTigerx/password-manager.git
 cd password_app
 ```
 

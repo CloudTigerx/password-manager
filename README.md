@@ -52,7 +52,7 @@ sudo apt install -y libwebkit2gtk-4.0-dev build-essential curl wget libssl-dev l
 ## Installation
 
 ### Option 1: Download Pre-built Binaries
-Download the latest release from the [Releases](https://github.com/yourusername/password-app/releases) page:
+Download the latest release from the [Releases](https://github.com/CloudTigerx/password-manager/releases) page:
 - **Linux**: `.deb` or `.rpm` package
 - **Windows**: `.msi` installer
 - **macOS**: `.dmg` file
@@ -61,8 +61,8 @@ Download the latest release from the [Releases](https://github.com/yourusername/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/password-app.git
-   cd password-app
+   git clone https://github.com/CloudTigerx/password-manager.git
+   cd password-manager
    ```
 
 2. **Install dependencies:**
