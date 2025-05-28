@@ -29,7 +29,7 @@ passwords.db
 *.msi
 *.dmg
 *.AppImage
-*.exe
+# *.exe  # Temporarily allow exe files
 
 # Duplicate source folder and zip
 password-manager-source/
